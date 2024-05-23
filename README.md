@@ -33,4 +33,4 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={bomm0427})](https://solved.ac/{bomm0427})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=bomm0427)](https://solved.ac/bomm0427)
