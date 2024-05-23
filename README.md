@@ -9,7 +9,7 @@
 
 ### 💪 Deep Learning
 <p>
-   <img src="https://img.shields.io/badge/SKicit-learn-ffc9de?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Skicit learn-ffc9de?style=flat-square"/>
    <img src="https://img.shields.io/badge/Keras-fdd97c?style=flat-square"/>
   <img src="https://img.shields.io/badge/Tensorflow-fbfdaa?style=flat-square"/>
 </p>
