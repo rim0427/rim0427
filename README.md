@@ -20,8 +20,6 @@
      <img src="https://img.shields.io/badge/Numpy-ffc9de?style=flat-square"/>
    <img src="https://img.shields.io/badge/Pandas-fdd97c?style=flat-square"/>
   <img src="https://img.shields.io/badge/Matplotlib-fbfdaa?style=flat-square"/>
-   <img src="https://img.shields.io/badge/Numpy-c1f0b2?style=flat-square"/>
-   <img src="https://img.shields.io/badge/Pandas-b2e4f0?style=flat-square"/>
 </p>
 
 ### 💪 OS
